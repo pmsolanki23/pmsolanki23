@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PRUTHVI SOLANKI
+#  PRUTHVI SOLANKI
 
 ### FULL STACK DEVELOPER • MERN STACK • MODERN UI ENGINEER
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```yaml
 Name: Pruthvi Solanki
@@ -30,27 +30,27 @@ Currently Learning:
 
 <br/>
 
-> 💡 I build modern, scalable and visually premium applications with focus on performance, clean architecture and exceptional user experience.
+>  I build modern, scalable and visually premium applications with focus on performance, clean architecture and exceptional user experience.
 
 ---
 
-# ⚡ Tech Arsenal
+#  Tech Arsenal
 
 <div align="center">
 
-## 🎨 Frontend
+##  Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
 
-## ⚙️ Backend
+## Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 
-## 🗄️ Database
+##  Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 
@@ -58,28 +58,28 @@ Currently Learning:
 
 ---
 
-# 🧠 Development Philosophy
+#  Development Philosophy
 
 <div align="center">
 
 | Principle | Description |
 |---|---|
-| 🎯 Clean Code | Scalable & maintainable architecture |
-| ⚡ Performance | Fast, optimized and responsive apps |
-| 🎨 Premium UI | Modern glassmorphism & smooth UX |
-| 🔒 Security | Authentication & protected systems |
-| 📱 Responsive | Perfect across all devices |
+|  Clean Code | Scalable & maintainable architecture |
+|  Performance | Fast, optimized and responsive apps |
+|  Premium UI | Modern glassmorphism & smooth UX |
+|  Security | Authentication & protected systems |
+|  Responsive | Perfect across all devices |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🌿 Virtual Herbal Garden
 > Premium herbal e-commerce platform with modern UI/UX.
 
-### ✨ Features
+###  Features
 - 🔐 Authentication System
 - 🛒 Smart Cart Functionality
 - 👤 User Profile System
@@ -89,7 +89,7 @@ Currently Learning:
 
 ---
 
-## 🛍️ Advanced MERN E-Commerce
+##  Advanced MERN E-Commerce
 > Scalable e-commerce platform with modern architecture.
 
 ### ✨ Features
